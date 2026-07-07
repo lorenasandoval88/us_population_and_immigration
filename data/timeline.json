@@ -1,0 +1,59 @@
+[
+  {
+    "id": "naturalization-act-1790",
+    "year": "1790",
+    "title": "The Naturalization Act of 1790",
+    "summary": "Congress's first naturalization law limited citizenship to a \"free white person\" of \"good moral character\" who had resided in the U.S. for at least two years.",
+    "details": [
+      "Signed under President George Washington, just two years after the Constitution took effect.",
+      "Enslaved people were excluded because they were not legally \"free,\" tying their exclusion to the broader system of slavery.",
+      "Free Black people were directly barred from naturalizing until the Naturalization Act of 1870 extended eligibility to \"aliens of African nativity and persons of African descent.\"",
+      "Asian immigrants were later ruled ineligible for citizenship under this \"white person\" requirement, reinforced by the Chinese Exclusion Act (1882) and the Immigration Act of 1924.",
+      "The law governed citizenship only, not entry — immigrants could live and work in the U.S. for decades without ever being eligible to naturalize.",
+      "The racial bar persisted for over 160 years: extended to Black immigrants in 1870, tested in Ozawa v. United States (1922) and United States v. Thind (1923), lifted for Chinese immigrants in 1943, for Filipino and Indian immigrants in 1946, and fully eliminated by the McCarran-Walter Act of 1952."
+    ],
+    "source": "https://iir.gmu.edu/historical-timeline"
+  },
+  {
+    "id": "mexican-american-war",
+    "year": "1836–1853",
+    "title": "Mexico Lost Land to the U.S.",
+    "summary": "Texas broke away in 1836, the U.S. annexed it in 1845, and after winning the Mexican-American War (1846–48) the U.S. took roughly half of Mexico's territory.",
+    "details": [
+      "The Mexican-American War (1846–48) transferred California, Nevada, Utah, most of Arizona/New Mexico, and parts of Colorado/Wyoming to the U.S.",
+      "The 1853 Gadsden Purchase added a bit more land.",
+      "In total, Mexico lost about 55% of its land.",
+      "Almost all Mexicans living in the ceded territory (about 97–98%) stayed and became U.S. citizens.",
+      "Despite becoming citizens, most lost their land over the following decades through costly court battles, fraud, unfair taxes, and being outnumbered by incoming Anglo-American settlers — in California, New Mexico, and Texas, at different speeds."
+    ],
+    "source": "https://iir.gmu.edu/historical-timeline"
+  },
+  {
+    "id": "mexican-repatriation",
+    "year": "1929–1936",
+    "title": "Mexican Repatriation",
+    "summary": "During the Great Depression, roughly 500,000 to 2 million people of Mexican descent were pressured or misled into leaving the U.S., an estimated 40–60% of them U.S. citizens.",
+    "details": [
+      "Mass unemployment during the Great Depression led to Mexicans being scapegoated as \"taking jobs,\" even those who had lived in the U.S. for years or generations.",
+      "There was no formal federal deportation program — mostly local governments and employers pressured or misled people into leaving.",
+      "Tactics included cutting off relief benefits, workplace and public raids (such as the 1931 raid at LA's La Placita Park), and little to no effort to verify actual citizenship status.",
+      "The removals hit hardest in California and Texas, with some impact in Midwest cities like Detroit.",
+      "Families lost homes and savings almost overnight; U.S.-citizen children grew up in Mexico, sometimes struggling to return later.",
+      "The event was largely ignored in mainstream history for decades. California formally apologized in 2005, though without reparations."
+    ],
+    "source": "https://iir.gmu.edu/historical-timeline"
+  },
+  {
+    "id": "hart-celler-act-1965",
+    "year": "1965",
+    "title": "U.S. Immigration Law Favored Europeans Until 1965",
+    "summary": "From the 1920s to 1965, U.S. law used national-origin quotas favoring Northern/Western Europe. The 1965 Hart-Celler Act scrapped those quotas but capped Mexican immigration for the first time.",
+    "details": [
+      "From the 1920s to 1965, U.S. immigration law used quotas that favored immigrants from Northern/Western Europe and blocked most others.",
+      "The 1965 Hart-Celler Act eliminated those quotas, opening the door more broadly — including, eventually, to more Mexican and Latin American immigrants.",
+      "That same 1965 law also capped Mexican immigration for the first time in U.S. history.",
+      "The McCarran-Walter Act of 1952 had already removed race as a legal bar to naturalization, but kept national-origin quotas in place for immigration until 1965."
+    ],
+    "source": "https://iir.gmu.edu/historical-timeline"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  { "year": 1850, "totalPopulationMillions": 23.2, "foreignBornPercent": 9.7 },
+  { "year": 1870, "totalPopulationMillions": 38.6, "foreignBornPercent": 14.0 },
+  { "year": 1890, "totalPopulationMillions": 62.9, "foreignBornPercent": 14.8 },
+  { "year": 1910, "totalPopulationMillions": 92.2, "foreignBornPercent": 14.7 },
+  { "year": 1930, "totalPopulationMillions": 123.2, "foreignBornPercent": 11.6 },
+  { "year": 1950, "totalPopulationMillions": 151.3, "foreignBornPercent": 6.9 },
+  { "year": 1970, "totalPopulationMillions": 203.2, "foreignBornPercent": 4.7 },
+  { "year": 1990, "totalPopulationMillions": 248.7, "foreignBornPercent": 7.9 },
+  { "year": 2000, "totalPopulationMillions": 281.4, "foreignBornPercent": 11.1 },
+  { "year": 2010, "totalPopulationMillions": 308.7, "foreignBornPercent": 12.9 },
+  { "year": 2020, "totalPopulationMillions": 331.4, "foreignBornPercent": 13.7 }
+]

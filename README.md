@@ -1,5 +1,7 @@
 # US Population and Immigration
 
+live at https://lorenasandoval88.github.io/us_population_and_immigration/
+
 A static web app summarizing U.S. population growth alongside key moments in
 U.S. immigration and citizenship history — including the Mexican-American War
 and loss of Mexican-owned land, the Naturalization Act of 1790's racial bar to

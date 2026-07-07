@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>U.S. Population &amp; Immigration History</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>U.S. Population &amp; Immigration</h1>
+      <p class="subtitle">Growth, migration, and the laws that shaped who could belong</p>
+    </div>
+  </header>
+
+  <nav class="site-nav">
+    <div class="container">
+      <a href="#overview">Overview</a>
+      <a href="#chart">Population Growth</a>
+      <a href="#timeline">Historical Timeline</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>
+        U.S. population growth has always been intertwined with immigration policy.
+        This page summarizes key moments where land, citizenship law, and immigration
+        quotas shaped who was counted as American — and who was excluded, displaced,
+        or removed.
+      </p>
+    </section>
+
+    <section id="chart">
+      <h2>U.S. Population &amp; Foreign-Born Share Over Time</h2>
+      <p>Approximate U.S. Census figures, 1850–2020.</p>
+      <canvas id="populationChart" height="120"></canvas>
+    </section>
+
+    <section id="timeline">
+      <h2>Historical Timeline</h2>
+      <p>
+        Source: <a href="https://iir.gmu.edu/historical-timeline" target="_blank" rel="noopener noreferrer">
+        George Mason University Institute for Immigration Research</a>
+      </p>
+      <div id="timeline-list" class="timeline-list">
+        <p class="loading">Loading timeline…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Built to summarize U.S. population growth and immigration history.</p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
